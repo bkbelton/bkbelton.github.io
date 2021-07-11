@@ -34,11 +34,26 @@ It can also be centered!
 
 Here's a code chunk:
 
+---
+
+$$\\sum_{n=1}^{100} n$$
+
+---
+
+---
+
+$$f(x) = sin(x) +12$$
+
+---
+
+
 ~~~
+
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
+
 ~~~
 
 And here is the same code with syntax highlighting:
