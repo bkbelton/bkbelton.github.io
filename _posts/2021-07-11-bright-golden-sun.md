@@ -2,6 +2,7 @@
 layout: post
 title: Latest
 subtitle: Bright Golden Sun
+thumbnail-img: /assets/img/avatars-karmicresonance.jpg
 date: 2021-07-11 14:04
 category: music
 author: 
