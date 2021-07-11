@@ -62,7 +62,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  soundcloud: karmicresonance 
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -101,15 +100,15 @@ post_search: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#183C40"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
+text-col: "#183C40"
+link-col: "#9D3F9D"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#183C40"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -186,7 +185,7 @@ footer-link-col: "#404040"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%Y-%m-%d"
 
 # Facebook App ID
 #fb_app_id: ""
