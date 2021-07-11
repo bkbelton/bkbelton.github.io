@@ -16,8 +16,9 @@ author: bhangakhana
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - My Music: "https://soundcloud.com/karmicresonance"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - music: "https://soundcloud.com/karmicresonance"
+    - writing: "https://monoskop.org/File:OrinocoFlow_Belton.pdf"
+    - learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://acmesemiotics.com"
 
 # --- Logo --- #
