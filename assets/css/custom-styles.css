@@ -14,5 +14,9 @@ h1 {
     text-align: right;
 }
 .img-desc {
-    background: transparent;
+    background: transparent !important;
+    opacity: 0.9;
+}
+hr.small {
+    opacity: 0.5;
 }
