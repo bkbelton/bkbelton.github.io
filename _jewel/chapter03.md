@@ -7,9 +7,8 @@ date: '2021-07-17T20:33:44.664Z'
 cover-img: null
 thumbnail-img: null
 share-img: /assets/img/path.jpg
-category: null
-tags:
-  - jewel chapter
+categories: [jewel chapter]
+tags: 
 summary: null
 ---
 
