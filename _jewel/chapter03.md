@@ -1,7 +1,7 @@
 ---
 layout: jewel
 title: Chapter 3
-subtitle: The dream wandering
+subtitle: The Dream Wandering
 author: null
 date: '2021-07-17T20:33:44.664Z'
 cover-img: null
