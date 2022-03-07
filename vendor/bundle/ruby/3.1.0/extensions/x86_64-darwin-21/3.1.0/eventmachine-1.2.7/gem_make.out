@@ -1,0 +1,16 @@
+current directory: /Users/bbelton/OneDrive/repo/bhanga/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0 -r ./siteconf20220307-14888-v2kybh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/bbelton/OneDrive/repo/bhanga/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/bbelton/OneDrive/repo/bhanga/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/bbelton/OneDrive/repo/bhanga/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20220307-14888-707zk6
