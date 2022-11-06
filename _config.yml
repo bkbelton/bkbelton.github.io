@@ -40,10 +40,10 @@ title-img: /assets/img/logo2.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: rumbas.ribbing-0y@icloud.com
+#  email: rumbas.ribbing-0y@icloud.com
 #  facebook: deanattali
 #  github: daattali
-  twitter: bhangakhana
+#  twitter: bhangakhana
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -60,7 +60,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: mastodon.social/@bhangakhana
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
@@ -72,11 +72,12 @@ rss-description: Find some resonance here...
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: false
   linkedin: false
   vk: false
   email: true
+  mastodon: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
