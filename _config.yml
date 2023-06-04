@@ -11,6 +11,7 @@
 # Your name to show in the footer
 author: bhangakhana
 
+theme: beautiful-jekyll-theme
 # --- List of links in the navigation bar --- #
 
 navbar-links:
