@@ -1,6 +1,10 @@
 ## Unreleased version
 
+- Added `navbar-var-length` config setting that allows the navigation menu to be the same length as the longest sub-menu, so that long words in the submenu are not cut off (#765) 
 - Added `post_search` config setting that creates a Search button in the navbar (older websites need to set `post_search: true` to enable this feature) (#770)
+- Added `edit_page_button` config setting that adds a "Edit page" button to the footer (to edit the current page on GitHub) (#1004)
+- BREAKING CHANGE: More control over RSS feed sharing: previously, an RSS feed was *always* generated, and if the config setting `rss-description` was set then there was an RSS icon in the footer. Now, an RSS feed is only generated when the config setting `rss-description` exists, and an RSS footer icon is only shown if `rss: true` is set in the `social-network-links` config settings 
+- Fixed page titles, subtitles, and excerpts rendering correctly when there are special characeters in them (#856) 
 - Slightly reworked margins and position for avatar image to resolve an alignment issue on Safari.
 - Changed the width at which the navbar collapses to a higher threshold because most modern non-mobile browsers are >1000px
 - Fixed bug where navbar secondary level dropdown items didn't inherit the same colour as the primary navbar links
@@ -12,6 +16,13 @@
 - Updated staticman from using v2 (public servers) to v3 (private servers) due to the public servers becoming obsolete (#775)
 - Added support for Cloudflare Analytics (#797)
 - Added Reddit in share options of posts (#815)
+- Added support for giscus comments (#886) and CommentBox (#960)
+- Fixed bug where staticman didn't work jQuery slim version is used (#766)
+- Fixed very long strings to wrap around the next line rather than go off-screen (#787)
+- Added `footer-hover-col` config setting to customize the hover colour of links in the footer (#848)
+- Added social network links for Discord (#907), Kaggle (#961), and Hackerrank (#978)
+- Made the home page feed more accessible for screen readers (#950) 
+- When using Google Analytics config setting, encourage using the new `gtag` and discourage using the deprecated `google_analytics` (#1096)
 
 ## v5.0.0 (2020-09-15)
 

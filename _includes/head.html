@@ -39,8 +39,13 @@
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
 
+  {% if site.rss-description %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+<<<<<<< HEAD
   <link rel="me" href="<a rel="me" href="https://pkm.social/@bbelton">Mastodon</a>">Mastodon</link>
+=======
+  {% endif %}
+>>>>>>> 8c1493387a0c3694e322437da703454bd28b0788
 
   {% include gtag.html %}
   {% include gtm_head.html %}
