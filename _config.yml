@@ -40,9 +40,9 @@ title-img: /assets/img/logo2.png
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: rumbas.ribbing-0y@icloud.com
+  email: rumbas.ribbing-0y@icloud.com
 #  facebook: deanattali
-#  github: daattali
+  github: bkbelton
 #  twitter: bhangakhana
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -223,16 +223,16 @@ defaults:
       layout: "page"
 
 # Exclude these files from production site
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
-  - vendor
+#exclude:
+#  - CHANGELOG.md
+#  - CNAME
+#  - Gemfile
+#  - Gemfile.lock
+#  - LICENSE
+#  - README.md
+#  - screenshot.png
+#  - docs/
+#  - vendor
 
 plugins:
   - jekyll-paginate
