@@ -52,25 +52,7 @@ title-img: /assets/img/logo2.png
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: rumbas.ribbing-0y@icloud.com
-#  facebook: deanattali
   github: bkbelton
-#  twitter: bhangakhana
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
   mastodon: pkm.social/@bbelton
   ORCID: 0000-0002-1378-7549
 #  google-scholar: your google scholar
@@ -179,7 +161,7 @@ gtm: "GTM-NW65QDB"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-# Gogle Universal Analytics ID -- deprecated
+# Google Universal Analytics ID -- deprecated
 # As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
 # you should switch to using the `gtag` field above instead.
 #google_analytics: "UA-XXXXXXXX-X"
@@ -300,5 +282,3 @@ collections:
   chapters:
     output: true
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
