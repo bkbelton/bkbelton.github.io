@@ -13,7 +13,7 @@ summary:
 Global Ménière's
 in the 90s i was working on a dissertation on information systems and systemic change, knee-deep in the habermas-luhmann debate over communicative action vs social systems, and the possibility of applying new ideas in systems theory to how communication networks interact with system change.
 
-while at the day job one day, i got nauseated, dizzy, and couldn't stand. the world spun wildly about along the longitudinal axis between my head and feet. debilitated for days that first time, i was diagnosed with labyrinthitis, lymphatic hydrops, menieres, a borgesian taxonomy of possible syndromes, possibly induced by antibiotics or a virus.
+while at the day job one day, i got nauseated, dizzy, and couldn't stand. the world spun wildly about along the longitudinal axis between my head and feet. debilitated for days that first time, i was diagnosed with labyrinthitis, lymphatic hydrops, menieres, a borgesian taxonomy of possible syndromes – possibly induced by antibiotics or a virus.
 
 this episode repeated itself, at decreasing frequency, over the next several years. i consulted audiologists, neurologists, acupuncturists and balance disorder clinics. i gave up hiking along the edge of precipices, biking, and roller coasters, since i never knew what might precipitate another attack. early november high pressure systems pushed me over the edge.
 
