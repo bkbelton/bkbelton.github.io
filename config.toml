@@ -7,7 +7,7 @@
 
 base_url = "https://acmesemiotics.com"
 title = "karmic lag"
-description = "xxxx xxxx xxxx"
+description = "Semiology since 1897"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -60,3 +60,5 @@ not_found_recover_text = "« back to home »"
 reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
 reaction_endpoint = "https://example.com/api/reaction"
+
+date_format = "%Y-%-m-%-d"
